@@ -24,14 +24,14 @@ The types of data you are interested in are any data that you would not wish to 
 For example: colleague data, customer data, financial data, security data, intellectual property, legal data, HR data, medical data.
 
 For each document you analys you must provide a very brief description of what type of document it is.
-If you find sensitive data you must summarized it into a table - mention why it is sensitive and also mention where in the document you found it.
+If you find sensitive data you must summarize it into a table - mention why it is sensitive and also mention where in the document you found it.
 You should also provide the number of match counts for each class of sensitive data.
 
 Mask the first half of any identified sensitive data.
 Do not display fully unmasked sensitve data.
-All montary values must be completely masked apart from the currency symbol.
+All monetary values must be completely masked apart from the currency symbol.
 All email address must be completely mask upto the @ symbol.
-All names mst be completely masked apart from the first letter of each word in the name.
+All names must be completely masked apart from the first letter of each word in the name.
 All telephone numbers must be completely redacted apart fromt he area code.
 
 The masked data must be included in the table.
