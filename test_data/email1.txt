@@ -1,0 +1,24 @@
+Subject: Confidential Report for Q2 Financials
+
+Dear Jessica Johnson,
+
+I hope this email finds you well. Please find attached the detailed financial report for Q2, including sensitive data that requires strict confidentiality. Ensure this information is only accessible to authorized personnel.
+
+Key Points:
+- Total Revenue: $10,254,368.45
+- Net Profit: $1,265,432.78
+- Customer Data (Name, SSN, and Account Numbers) included in the report:
+    - John Doe, SSN: 123-45-6789, Account Number: 9876543210
+    - Jane Smith, SSN: 987-65-4321, Account Number: 1234567890
+- Projected Revenue Growth for Q3: 12%
+- Detailed P&L statements and Balance Sheets
+
+Please review the attached document and provide feedback by EOD Friday. If you have any questions or need further clarification, feel free to contact me directly.
+
+Best regards,
+
+Michael Thompson  
+Senior Financial Analyst  
+michael.thompson@example.com  
+
+Attachments: Q2_Financial_Report_Confidential.xlsx

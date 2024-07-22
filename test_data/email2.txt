@@ -1,0 +1,31 @@
+Subject: Security Update: Sensitive Information on Recent Incidents
+
+Dear Emily Davis,
+
+I hope this email finds you well. Please be advised that this email contains sensitive data regarding recent security incidents that must remain confidential. Ensure this information is only accessible to authorized personnel.
+
+Incident Details:
+- Incident ID: INC123456
+  - Date: July 15, 2024
+  - Affected Systems: HR Database, Payroll System
+  - Compromised Data: Employee Names, Social Security Numbers, Bank Account Numbers
+    - Example: 
+      - Thomas Brown, SSN: 321-65-9870, Bank Account: 6789012345
+      - Laura Wilson, SSN: 654-32-1987, Bank Account: 4321098765
+- Incident ID: INC123457
+  - Date: July 18, 2024
+  - Affected Systems: Customer Management System
+  - Compromised Data: Customer Names, Credit Card Information
+    - Example: 
+      - Mark Taylor, CC: 4111-1111-1111-1111
+      - Susan Clark, CC: 4222-2222-2222-2222
+
+Please review the attached incident report and follow the recommended actions to mitigate risks. If you have any questions or require further assistance, contact me directly.
+
+Best regards,
+
+David Martinez  
+Security Operations Manager  
+david.martinez@example.com  
+
+Attachments: Security_Incident_Report_Confidential.pdf
